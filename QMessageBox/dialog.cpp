@@ -7,6 +7,7 @@
 /*
  * Name: Tom Roberts
  * Subject: QMessageBox examples
+ * Date: 09/27/21
  */
 
 Dialog::Dialog(QWidget *parent)
